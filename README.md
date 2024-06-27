@@ -1,7 +1,7 @@
 # Project Hub 📝
 
 ## 🎯 Aim
-Welcome to the **Project Hubt** project! Our goal is to create an intuitive, powerful project management tool inspired by Jira. This tool helps teams efficiently manage tasks, track progress, and collaborate seamlessly. Built with the latest web technologies, this project ensures a smooth and responsive user experience.
+Welcome to the **Project Hub** project! Our goal is to create an intuitive, powerful project management tool inspired by Jira. This tool helps teams efficiently manage tasks, track progress, and collaborate seamlessly. Built with the latest web technologies, this project ensures a smooth and responsive user experience.
 
 ## Tech Stack
 - **Next.js**: A React framework for production.
